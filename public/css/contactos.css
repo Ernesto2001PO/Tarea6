@@ -1,0 +1,31 @@
+img.contacto-img{
+    border-radius: 100%;
+    width: 150px;
+}
+
+.validation{
+    font-size: 10px !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.direccion-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.direccion-group input {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.btn-remove-direccion {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
